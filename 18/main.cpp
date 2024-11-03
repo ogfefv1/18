@@ -10,7 +10,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     system("цвет 3");
     srand(static_cast<unsigned int>(time(nullptr)));
 
